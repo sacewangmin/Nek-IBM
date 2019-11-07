@@ -1,4 +1,7 @@
 # Nek5000
+This is a implementation of Scalable Immersed Boundary Method on the Spectral Element Method. The code is based on Nek5000 developped at ANL.
+Nek5000 is a fast and scalable open source CFD solver.
+
 
 | **`Short Tests`** | **`Examples`** |
 |-----------------|---------------------|
